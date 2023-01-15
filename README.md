@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a final year Computer Science student at Queen's University Belfast with a strong interest in ML, data science, and MLOps. I have 1 year's experience working as a Trainee ML Engineer at Kainos.
+I am a final year Computer Science student at Queen's University Belfast with a strong interest in Data Science, ML, and MLOps. I have 1 years experience working as a Trainee ML Engineer at [Kainos](https://www.kainos.com/).
 
 - 🔭 I’m currently working on my final year project: "Show Me What You See: Unsupervised Zero-shot Semantic Segmentation and Classification Without Prompts"
 - ⚙️ Experience in areas such as recommendation systems, supply chain optimization, MLOps deployment/monitoring, and pathfinding.
