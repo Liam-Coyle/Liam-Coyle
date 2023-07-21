@@ -7,4 +7,4 @@ I'm the founder of [BrandCanvas](https://brandcanvas.net/), an AI-powered graphi
 
 📝 I also Blog [here](https://liam-coyle.github.io/blog/).
 
-📫 You can reach me at coyle.liam@outlook.com or [@Liam_Coyle_](https://twitter.com/Liam_Coyle_).
+📫 You can reach me at coyle.liam@outlook.com or [@liamcoylecodes](https://twitter.com/liamcoylecodes).
